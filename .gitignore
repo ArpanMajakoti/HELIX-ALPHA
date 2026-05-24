@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+temp/
+*.wav
+*.mp3
+*.log
+models/vosk-model*/
+models/*.gguf
+llama_vulkan/
