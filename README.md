@@ -69,8 +69,6 @@ In PowerShell, navigate to the project:
 cd your project file
 ```
 
-> Replace `E:\Project\HELIX-ALPHA` with your actual project path if different.
-
 Verify you are in the right folder:
 ```powershell
 dir
