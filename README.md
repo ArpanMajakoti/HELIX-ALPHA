@@ -66,7 +66,7 @@ If you see `Python 3.11.x` or `Python 3.12.x`, skip to Step 3.
 In PowerShell, navigate to the project:
 
 ```powershell
-cd E:\Project\HELIX-ALPHA
+cd your project file
 ```
 
 > Replace `E:\Project\HELIX-ALPHA` with your actual project path if different.
